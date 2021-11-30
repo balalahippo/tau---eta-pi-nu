@@ -1,3 +1,7 @@
+//author dingyi
+//at 2021-11-30
+//draw inMC and exMC
+
 #include <TVector3.h>
 #include <TCanvas.h>
 #include <iostream>
